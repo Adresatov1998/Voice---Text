@@ -7,7 +7,7 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 
 2. Install the required libraries by running the following command:
 ```pip install pyTelegramBotAPI pydub SpeechRecognition```
-3. Install FFmpeg, which is necessary for working with audio files. Installation instructions can be found on the official FFmpeg website.
+3. Install FFmpeg, which is necessary for working with audio files. Installation instructions can be found on the <a src="https://ffmpeg.org/download.html">official FFmpeg website</a>
 
 **Configuration**
 1. Obtain a token for your bot by creating it through BotFather on Telegram.
