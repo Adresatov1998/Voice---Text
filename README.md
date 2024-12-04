@@ -23,3 +23,5 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 2. The recognized text is automatically punctuated.
 3. In case of an error, the bot notifies the user about the issue.
 
+**Commands**
+ - /start - A welcome message and instructions on how to use the bot.
