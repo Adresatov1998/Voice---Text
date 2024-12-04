@@ -10,5 +10,5 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 3. Install FFmpeg, which is necessary for working with audio files. Installation instructions can be found on the official FFmpeg website.
 
 **Configuration**
-Obtain a token for your bot by creating it through BotFather on Telegram.
-Replace the line bot = telebot.TeleBot('Your Bot Token') with your token.
+1. Obtain a token for your bot by creating it through BotFather on Telegram.
+2. Replace the line bot = telebot.TeleBot('Your Bot Token') with your token.
