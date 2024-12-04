@@ -15,7 +15,7 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 2. Replace the line bot = telebot.TeleBot('Your Bot Token') with your token.
 
 **Usage**
-1. Run the script: ```python Voice - Text.py```
+1. Run the script: ```python3 Voice - Text.py```
 2. Open Telegram and find your bot.
 3. Send a voice message to the bot, and it will respond with the transcribed text.
 
