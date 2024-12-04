@@ -25,3 +25,7 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 
 **Commands**
  - /start - A welcome message and instructions on how to use the bot.
+
+**Notes**
+ - The bot runs in an infinite loop and processes voice messages in a separate thread.
+ - Please ensure a stable internet connection for proper operation.
