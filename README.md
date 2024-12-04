@@ -17,3 +17,9 @@ This project is a Telegram bot that recognizes voice messages and converts them 
 1. Run the script: ```python Voice - Text.py```
 2. Open Telegram and find your bot.
 3. Send a voice message to the bot, and it will respond with the transcribed text.
+
+**Functionality**
+1. The bot processes voice messages and converts them into text.
+2. The recognized text is automatically punctuated.
+3. In case of an error, the bot notifies the user about the issue.
+
