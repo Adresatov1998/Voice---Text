@@ -30,4 +30,4 @@
  - The bot runs in an infinite loop and processes voice messages in a separate thread.
  - Please ensure a stable internet connection for proper operation.
 
-<div align="center"><h1>© LLC "Server.System company", 2023-2024</h1></div>
+<div align="center"><h1>© LLC "<a src="https://www.serversys.ru">Server.System company</a>", 2023-2024</h1></div>
