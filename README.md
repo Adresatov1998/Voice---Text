@@ -29,5 +29,5 @@
 **Notes**
  - The bot runs in an infinite loop and processes voice messages in a separate thread.
  - Please ensure a stable internet connection for proper operation.
-[текст ссылки]: http://www.reddit.com
+[Обычная ссылка в строке](https://www.google.com)
 <div align="center"><h1>© LLC "<a src="https://www.serversys.ru">Server.System company</a>", 2023-2024</h1></div>
