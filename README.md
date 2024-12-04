@@ -5,7 +5,7 @@
 **Installation**
 1. Ensure you have Python 3.6 or higher installed.
 
-2. Install the required libraries by running the following command:
+2. Install the required libraries by running the following command:<br>
 ```pip install pyTelegramBotAPI pydub SpeechRecognition```
 3. Install FFmpeg, which is necessary for working with audio files. Installation instructions can be found on the <a src="https://ffmpeg.org/download.html">official FFmpeg website</a>
 
